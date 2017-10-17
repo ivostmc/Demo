@@ -7,7 +7,7 @@ import javax.persistence.Id;
 
 @Entity
 public class User {
-	
+	//Commit test
 	@Id
 	@GeneratedValue(strategy=GenerationType.AUTO)
 	private Integer id;
